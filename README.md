@@ -1,7 +1,7 @@
 <h2 align="left">Hi Nakama 👋  Selamat Datang Di Github Saya</h2>
 
 ###
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/14905247?s=400&u=3d4d9887a241bae5df46562c25d9a4e45c2d95a4&v=4"  />
+<img align="right" height="150" src="https://animemusic.us/assets/fathulhudoyo/images/imagesHome/Raphael-1.jpg"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FathulHudoyo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
