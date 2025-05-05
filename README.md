@@ -83,6 +83,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FathulHudoyo/FathulHudoyo/output/snake.svg" alt="Snake animation" />
+
 
 ###
