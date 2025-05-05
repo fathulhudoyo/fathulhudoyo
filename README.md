@@ -1,6 +1,7 @@
 <h2 align="left">Hi Nakama 👋  Selamat Datang Di Github Saya</h2>
 
 ###
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/14905247?s=400&u=3d4d9887a241bae5df46562c25d9a4e45c2d95a4&v=4"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FathulHudoyo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,7 +12,6 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/14905247?s=400&u=3d4d9887a241bae5df46562c25d9a4e45c2d95a4&v=4"  />
 
 ###
 
@@ -38,8 +38,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="30" alt="yii logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="30" alt="yii logo"  />
   <img width="12" />
+</div>
+
+
+###
+
+
+<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
@@ -62,21 +70,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/fathulhudoyo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/fathul-hudoyo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Fathul_XD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://git.animemusic.us/fathulhudoyo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-  <a href="https://wa.me/6281908760326?text=hi%20brow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fathul_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fathul_xd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fathul-hudoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathul-hudoyo" height="30" width="40" /></a>
+<a href="https://fb.com/fathulxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fathulxd" height="30" width="40" /></a>
+<a href="https://instagram.com/fathulhudoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fathulhudoyo" height="30" width="40" /></a>
+</p>
 </div>
 
 ###
