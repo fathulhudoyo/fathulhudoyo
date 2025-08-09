@@ -18,7 +18,7 @@
 <div align="center">
   <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/fathul_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fathul_xd" height="30" width="40" /></a>
+<a href="https://twitter.com/fathul_xd" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="fathul_xd" height="40" width="37" /></a>
 <a href="https://linkedin.com/in/fathul-hudoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathul-hudoyo" height="30" width="40" /></a>
 <a href="https://fb.com/fathulxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fathulxd" height="30" width="40" /></a>
 <a href="https://instagram.com/fathulhudoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fathulhudoyo" height="30" width="40" /></a>
