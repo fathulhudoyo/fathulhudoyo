@@ -3,11 +3,11 @@
 ###
 
 
-<div align="center">
+<!--div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FathulHudoyo&hide_title=false&theme=dracula&locale=id&hide_border=false" height="150" width="300"  />
   <img height="150" src="https://api.animemusic.us/assets/fathulhudoyo/images/imagesHome/Kisara-anime.jpg"  /> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FathulHudoyo&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div-->
 
 ###
 
