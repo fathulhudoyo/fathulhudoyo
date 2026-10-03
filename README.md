@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/fathulhudoyo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+saya!;Web+%26+Android+Developer;Founder+Anime+Music+%F0%9F%8E%B5;Sedang+mendalami+Generative+AI+%F0%9F%A4%96;Kaizoku+ou+ni+ore+wa+naru!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+saya!;Web+%26+Android+Developer;Founder+Anime+Music+%F0%9F%8E%B5;Kaizoku+ou+ni+ore+wa+naru!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
