@@ -48,16 +48,14 @@
   <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathulhudoyo&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=795&custom_title=Bahasa" alt="Top languages" />
 </p>
 
-## 📌 Proyek Unggulan
+## 📌 Proyek & Perjalanan
 
-<p align="center">
-  <a href="https://github.com/fathulhudoyo/Fitur_Disabilitas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fathulhudoyo&repo=Fitur_Disabilitas&theme=dracula&hide_border=true" alt="Fitur Disabilitas" />
-  </a>
-  <a href="https://github.com/fathulhudoyo/list-font-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fathulhudoyo&repo=list-font-web&theme=dracula&hide_border=true" alt="list-font-web" />
-  </a>
-</p>
+Saya senang membangun web yang **berguna dan bisa dipakai semua orang**. Sebagian besar kode saya ditulis dengan **JavaScript**, ditambah **HTML** dan **CSS** untuk tampilan, serta sedikit **PHP** di sisi server.
+
+- ♿ **[Fitur Disabilitas](https://github.com/fathulhudoyo/Fitur_Disabilitas)** &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/fathulhudoyo/Fitur_Disabilitas?style=flat-square&color=50fa7b) ![Forks](https://img.shields.io/github/forks/fathulhudoyo/Fitur_Disabilitas?style=flat-square&color=8be9fd)<br/>
+  Widget aksesibilitas yang bisa dipasang di website untuk membantu pengguna disabilitas menjelajah web dengan lebih nyaman. Proyek utama saya dan yang paling banyak digunakan orang lain.
+- 🔤 **[list-font-web](https://github.com/fathulhudoyo/list-font-web)**<br/>
+  Kumpulan daftar font untuk kebutuhan desain web, dibuat agar pemilihan font saat membangun website jadi lebih cepat.
 
 ## 🤝 Connect with me
 
