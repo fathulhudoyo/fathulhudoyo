@@ -40,12 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fathulhudoyo&show_icons=true&theme=dracula&locale=id&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=Statistik%20GitHub" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=fathulhudoyo&theme=dracula&locale=id&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fathulhudoyo&show_icons=true&theme=dracula&locale=id&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=Statistik%20GitHub" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=fathulhudoyo&theme=dracula&locale=id&hide_border=true&card_width=467&card_height=170" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fathulhudoyo&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=795&custom_title=Bahasa" alt="Top languages" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathulhudoyo&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=795&custom_title=Bahasa" alt="Top languages" />
 </p>
 
 ## 📌 Proyek Unggulan
