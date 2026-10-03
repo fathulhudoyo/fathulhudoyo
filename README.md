@@ -21,28 +21,20 @@
 
 ## 🧑‍💻 Tentang Saya
 
+- 🎵 Founder **[Anime Music](https://animemusic.us)**, proyek web pribadi sejak 2019
+  
+
+## 🎓 Pendidikan & Sertifikasi
+
 <img align="right" height="220" src="https://api.animemusic.us/assets/fathulhudoyo/images/imagesHome/Kisara-anime.jpg" alt="anime" />
 
-- 👨‍💻 **Junior Programmer** dari Jawa Barat, Indonesia, dengan pengalaman sejak 2018 di web dan Android
-- 🏛️ Saat ini programmer di **Pemerintah Provinsi DKI Jakarta**, mengembangkan aplikasi web & Android **PPID DKI Jakarta** dan integrasi SINTA
-- 🎵 Founder **[Anime Music](https://animemusic.us)**, proyek web pribadi sejak 2019
-- 🤖 Sedang mendalami **Generative AI**: RAG, agentic AI, dan prototipe chatbot asisten virtual PPID
-- ♿ Pembuat **[Fitur Disabilitas](https://github.com/fathulhudoyo/Fitur_Disabilitas)**, widget aksesibilitas agar web ramah untuk semua orang
-- ⚡ Fun fact: dulu relawan penerjemah di X (2013–2017), dan coding lebih semangat sambil nonton anime
+- 🎓 **S1 Sistem Informasi Manajemen**, Universitas Nasional (2019–2021)
+- 🎓 **D3 Sistem Informasi Manajemen**, Politeknik LP3I (2015–2018)
+- 📜 **Pengembangan Generative AI berbasis LLM**, Dicoding Indonesia (2026)
+- 📜 **Artificial Intelligence Super Class**, rubythalib.ai (2026)
+- 📝 Publikasi: *Implementasi web service pada SIG peta sebaran data COVID-19 berbasis mobile apps* (2021)
 
 <br clear="right" />
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,go,php,python,fastapi,react,androidstudio,mysql,git,github,vscode&perline=8" alt="tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" />
-  <img src="https://img.shields.io/badge/RAG_%26_LLM-6272a4?style=flat-square&logo=openai&logoColor=white" alt="RAG & LLM" />
-</p>
 
 ## 📊 GitHub Stats
 
@@ -55,30 +47,7 @@
   <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathulhudoyo&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=795&custom_title=Bahasa" alt="Top languages" />
 </p>
 
-## 💼 Pengalaman
 
-| Periode | Peran | Tempat | Teknologi |
-|---|---|---|---|
-| 2022 – sekarang | Programmer (Web & Android) | Pemerintah Provinsi DKI Jakarta | React Native, Gin |
-| 2019 – sekarang | Founder, proyek web pribadi | [Anime Music](https://animemusic.us) | Go, Express.js |
-| 2020 – 2022 | Programmer | PT Infomedia Nusantara (Telkom Group) | React Native, PHP |
-| 2019 | Programmer | PT Infomedia Solusi Humanika | PHP, SQL |
-| 2018 – 2019 | Android Developer | MarkPlus, Inc. | React Native, PHP |
-
-## 🎓 Pendidikan & Sertifikasi
-
-- 🎓 **S1 Sistem Informasi Manajemen**, Universitas Nasional (2019–2021)
-- 🎓 **D3 Sistem Informasi Manajemen**, Politeknik LP3I (2015–2018)
-- 📜 **Pengembangan Generative AI berbasis LLM**, Dicoding Indonesia (2026)
-- 📜 **Artificial Intelligence Super Class**, rubythalib.ai (2026)
-- 📝 Publikasi: *Implementasi web service pada SIG peta sebaran data COVID-19 berbasis mobile apps* (2021)
-
-## 📌 Proyek
-
-- ♿ **[Fitur Disabilitas](https://github.com/fathulhudoyo/Fitur_Disabilitas)**: widget aksesibilitas untuk website &nbsp;![Stars](https://img.shields.io/github/stars/fathulhudoyo/Fitur_Disabilitas?style=flat-square&color=50fa7b) ![Forks](https://img.shields.io/github/forks/fathulhudoyo/Fitur_Disabilitas?style=flat-square&color=8be9fd)
-- 🎵 **[Anime Music](https://animemusic.us)**: website musik anime yang saya bangun dan kelola sendiri
-- 🤖 **Asisten Virtual PPID**: prototipe chatbot AI untuk layanan informasi publik
-- 🔤 **[list-font-web](https://github.com/fathulhudoyo/list-font-web)**: daftar font untuk kebutuhan desain web
 
 ## 🤝 Connect with me
 
