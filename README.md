@@ -40,20 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fathulhudoyo&show_icons=true&theme=dracula&locale=id&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathulhudoyo&layout=compact&langs_count=6&theme=dracula&locale=id&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fathulhudoyo&show_icons=true&theme=dracula&locale=id&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=Statistik%20GitHub" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=fathulhudoyo&theme=dracula&locale=id&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fathulhudoyo&theme=dracula&locale=id&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fathulhudoyo&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathulhudoyo&theme=dracula&hide_border=true&area=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fathulhudoyo&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=795&custom_title=Bahasa" alt="Top languages" />
 </p>
 
 ## 📌 Proyek Unggulan
